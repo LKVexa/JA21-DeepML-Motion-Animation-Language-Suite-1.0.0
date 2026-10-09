@@ -1,0 +1,6 @@
+deepml motion 0.3
+module corpus.deepml_motion.example_09736
+policy deterministic
+policy no_network
+skeleton Rig09736 { verify foot_slide distance 0.5m tolerance 0.001m }
+certify motion Rig09736 profile strict

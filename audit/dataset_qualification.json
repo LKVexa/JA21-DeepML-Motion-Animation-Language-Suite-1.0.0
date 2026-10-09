@@ -1,0 +1,662 @@
+[
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/catalogs/SCRIPT_CATALOG.jsonl",
+    "current_sha256": "7061ac56cd276d92011bee51d14667faab18f7a7e77682d3162584c1c4c618d0",
+    "source_sha256": "7061ac56cd276d92011bee51d14667faab18f7a7e77682d3162584c1c4c618d0",
+    "stored_jsonl_rows": 1000,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/corpus/technical/deepml_motion_animation_technical_corpus_10000.jsonl.gz",
+    "current_sha256": "b86ccf948100af4ad2a41c484c9780828d6325821797e046ae29cd2f9e463f1b",
+    "source_sha256": "1757d3b73544260f94de31748c9e1a64e8fa945c4a5de379105009a55e04131d",
+    "stored_jsonl_rows": 10000,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/corpus/technical/motion_01.jsonl.gz",
+    "current_sha256": "94b861043a928f145eea513d193ca2b5cb0078be391010c0a151d326fcf27f20",
+    "source_sha256": "da52094be6f6fb2bc7776fcfc61cfa7fbcd6c7feb5c22d3f8dc816cee920f503",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/corpus/technical/motion_02.jsonl.gz",
+    "current_sha256": "bc29ba7217ca8bfe0df2f670adce5873e0d8a4e220cbfbb6a8a813793ca4994f",
+    "source_sha256": "c9fe2a11047d8a29eedf2446261cb31f185b3e3bbf5f9cc98c1ad6885247bb50",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/corpus/technical/motion_03.jsonl.gz",
+    "current_sha256": "8ef80be2de84ba953fdf763d51fcac0ed0fc5f25f0da398fa5a4f8d8956f8828",
+    "source_sha256": "5d50ff44915e6a51421f644b1a51c7ae9286c4503f3afa3901befbff306ea3a0",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/corpus/technical/motion_04.jsonl.gz",
+    "current_sha256": "c7a8e171868aa9ce27c5f1cbbeb9efa4d618c4bf163e4a9b6784df8af9822225",
+    "source_sha256": "d4d25d9bb2955a1b56313e15d65eb3bd6ffd497691814661358a86caa7e0cb4d",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/corpus/technical/motion_05.jsonl.gz",
+    "current_sha256": "5538d9b154db70e4e514a0e63cade8edf87a8be8a8d9728f6ad3e823d9b905a7",
+    "source_sha256": "944d77fb7a406b93a65d42a86ed140b913792e7426d2616d980e5c9e7563f884",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/corpus/technical/motion_06.jsonl.gz",
+    "current_sha256": "47e66805acb0728a324cccc992601e06ac69d2d8ac180a9e3053ae51cdf6264a",
+    "source_sha256": "6a2dde7676d60718a94a07a3c6147ba4a1d74f1824b0e0ba9cb2df12449605ed",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/corpus/technical/motion_07.jsonl.gz",
+    "current_sha256": "d714d7aeac1ec35318142684bcb579a370d6df4d01fef45056a922590e43d5b9",
+    "source_sha256": "391d7d32c12d6b377fb2530510b965719edd475d06ed2afd1685b2ad465f00ed",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/corpus/technical/motion_08.jsonl.gz",
+    "current_sha256": "31286758a4af6a5e27c30eb5def327065c9f449854e81ba2b56cc8668036f82b",
+    "source_sha256": "92d8b7f9a0f6594784e527276e880861495f9a5312f5248f28c6f1bc18941b23",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/corpus/technical/motion_09.jsonl.gz",
+    "current_sha256": "daec9aca00b2b6100cc5951dccc1032f7c40e3634528404060d1012de3c0c1ec",
+    "source_sha256": "7497090d33393950115c17908464063a9b0610e4cee2460c764b7838bd228047",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/corpus/technical/motion_10.jsonl.gz",
+    "current_sha256": "96aef6bc20bc2e7216c74a4b9809400c0cdbbac1648ad95b36a6719e3e2ca952",
+    "source_sha256": "74443a2e2837abfd96bf7540e190b16d60e50ed0d1e233a268779f76f62b131d",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/corpus/technical/motion_11.jsonl.gz",
+    "current_sha256": "e0c1e915b1d11d88a3681621b1cc46498c89b5902a809c8a726d4d4146def67d",
+    "source_sha256": "7e603c0618f61cca06a998939d7aef11b1cd169f29e0614770bb8d04384e7fc8",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/corpus/technical/motion_12.jsonl.gz",
+    "current_sha256": "d85af7e4a12e0bed29697f454f036e57265bb3ec6928fe3df8e0e9e60749996c",
+    "source_sha256": "dd4df76b3251fe3532320a9cb9f7d8b4dc420fb7f679d703d2903fa7e997a132",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/corpus/technical/motion_13.jsonl.gz",
+    "current_sha256": "4dbf7faa61df0f5a607cfb1032ac0fb062ce5c7087b7ae61d138bdff2f3db4ad",
+    "source_sha256": "4de90f91e8dc5bd909015aabafbb29f3f3990eaaa58b40002dcdc9b059bfbe28",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/corpus/technical/motion_14.jsonl.gz",
+    "current_sha256": "be490752f2772bfcf68bbe11bf561cef2c53a74e8b395a7044a5093bf255ae39",
+    "source_sha256": "e5cca729b3886834937dda5db653055d2249c2930f9619c5e196aae6a56561ed",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/corpus/technical/motion_15.jsonl.gz",
+    "current_sha256": "9d81b5bd894d59c6b674ed9befb37d550b844a8582c5196e483894522d86dd1d",
+    "source_sha256": "02bec378453d2ced94e79457f2eb295028bc83e2a38cef5cfe3ecb7e043532d4",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/corpus/technical/motion_16.jsonl.gz",
+    "current_sha256": "6578bc549ecdcefb335f1dd4617b905ae91a02c98caa255423d581b6c4a1d069",
+    "source_sha256": "1bcd04f34fb7565465684987417c231bc4d7e268c6c7df7636785a7882a67000",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/corpus/technical/motion_17.jsonl.gz",
+    "current_sha256": "2d29fe8ae675cd198c212b448996b40d5bcaeeac3d33fe1026d0fcb843dec73c",
+    "source_sha256": "30597b938a450ca14c3a7ad9e76d7885171e4f15c1094940b49c326e3b14d41b",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/corpus/technical/motion_18.jsonl.gz",
+    "current_sha256": "4e2688a3c08c4d7170331f3d8118f41d68eb878fa3421e43ea2228babfc24bcb",
+    "source_sha256": "0c84bf1a5fe3e3d61e9e6916b08d48b303a11259d00e85ae89c243dd875963ea",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/corpus/technical/motion_19.jsonl.gz",
+    "current_sha256": "f66595c2270a08e6cac1589e8bc610d0cc2eb2d0ccdfff018ba872e145f0e965",
+    "source_sha256": "29e9a0a40c8494c8ad87fd33f90fda235243400cd12a5268c186dffff853ef9a",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/corpus/technical/motion_20.jsonl.gz",
+    "current_sha256": "4c27123b57b47a00fbc825795d5870a02624fda8f5e3cefc312d35d90af72af4",
+    "source_sha256": "19823bb45e68ca827552e89a7d688a3ea4427808ae5a509b100040adee2aa53d",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+    "current_sha256": "66a3f68e10ce0477b14cfe6fd5f34d3403abcc8a11f91741c1b636ebc619bfe2",
+    "source_sha256": "66a3f68e10ce0477b14cfe6fd5f34d3403abcc8a11f91741c1b636ebc619bfe2",
+    "stored_jsonl_rows": 102,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/bootstrap/bootstrap_records.jsonl",
+    "current_sha256": "faec01a2752eab4969d04e9390299a5d0a72ffbd04b197588f527d629a9ff120",
+    "source_sha256": "faec01a2752eab4969d04e9390299a5d0a72ffbd04b197588f527d629a9ff120",
+    "stored_jsonl_rows": 46,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_00001_00250.jsonl",
+    "current_sha256": "da73f45cb03f2600894bb10a4af471f820199f045a5b77da41a589964138a4e4",
+    "source_sha256": "da73f45cb03f2600894bb10a4af471f820199f045a5b77da41a589964138a4e4",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_00251_00500.jsonl",
+    "current_sha256": "1c244ab047cb2805cceb1a37905937b27668bcbd56607dc147a4144556e9371e",
+    "source_sha256": "1c244ab047cb2805cceb1a37905937b27668bcbd56607dc147a4144556e9371e",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_00501_00750.jsonl",
+    "current_sha256": "ef25799ad0a2108c7ab915264d1eb5c6774f6f1a53cee6cbbead17744dd7f13c",
+    "source_sha256": "ef25799ad0a2108c7ab915264d1eb5c6774f6f1a53cee6cbbead17744dd7f13c",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_00751_01000.jsonl",
+    "current_sha256": "1914c1a67a233eb769fb1e5592884fcb027df79f1ff0928d18855094bda688a9",
+    "source_sha256": "1914c1a67a233eb769fb1e5592884fcb027df79f1ff0928d18855094bda688a9",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_01001_01250.jsonl",
+    "current_sha256": "3e0e5e3609fd7cebb5c4e85e6f258f75168d2fc33227effeba7474e44db1d1b2",
+    "source_sha256": "3e0e5e3609fd7cebb5c4e85e6f258f75168d2fc33227effeba7474e44db1d1b2",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_01251_01500.jsonl",
+    "current_sha256": "0583204c8c6cb05da4ef40a8240797d77d9b42370219c0a4c8826bace64c511c",
+    "source_sha256": "0583204c8c6cb05da4ef40a8240797d77d9b42370219c0a4c8826bace64c511c",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_01501_01750.jsonl",
+    "current_sha256": "6bfbf3e070a01a4260e922006b824001a4f846fc656530b382b4c37b9add48f5",
+    "source_sha256": "6bfbf3e070a01a4260e922006b824001a4f846fc656530b382b4c37b9add48f5",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_01751_02000.jsonl",
+    "current_sha256": "1c4718fdc750535092646dd10f6bf3538778a3b8f58bf36051bb442e76ff5c0f",
+    "source_sha256": "1c4718fdc750535092646dd10f6bf3538778a3b8f58bf36051bb442e76ff5c0f",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_02001_02250.jsonl",
+    "current_sha256": "4a8f1bad56ca126916563354b6bf9640df04f10026ace26642114cae2b6f17fd",
+    "source_sha256": "4a8f1bad56ca126916563354b6bf9640df04f10026ace26642114cae2b6f17fd",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_02251_02500.jsonl",
+    "current_sha256": "6e30d56c216699eb3c3a14f832254e48227f286feb48f3fedaac06533c3dc93b",
+    "source_sha256": "6e30d56c216699eb3c3a14f832254e48227f286feb48f3fedaac06533c3dc93b",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_02501_02750.jsonl",
+    "current_sha256": "395f538e3e85896bb5bd0a0f86504e4f14b8149e50b991fdf51469eb184f739b",
+    "source_sha256": "395f538e3e85896bb5bd0a0f86504e4f14b8149e50b991fdf51469eb184f739b",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_02751_03000.jsonl",
+    "current_sha256": "cd78fe636ff0b95b862e475e61538d8c5953a850b3e16fb2af6141805c102900",
+    "source_sha256": "cd78fe636ff0b95b862e475e61538d8c5953a850b3e16fb2af6141805c102900",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_03001_03250.jsonl",
+    "current_sha256": "88e7f873ea5c2d2004661c368368bdb962885a7091ba3b8a4e4e059eee1de21d",
+    "source_sha256": "88e7f873ea5c2d2004661c368368bdb962885a7091ba3b8a4e4e059eee1de21d",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_03251_03500.jsonl",
+    "current_sha256": "7649d7558238b9a154a2c210e1ab8333c0692d4578676650bf30d0b352c291b6",
+    "source_sha256": "7649d7558238b9a154a2c210e1ab8333c0692d4578676650bf30d0b352c291b6",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_03501_03750.jsonl",
+    "current_sha256": "e94c9f9d6ecaad35f45585f5bb9a562b21b2132b029bd2becfef5c6d0dc5132f",
+    "source_sha256": "e94c9f9d6ecaad35f45585f5bb9a562b21b2132b029bd2becfef5c6d0dc5132f",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_03751_04000.jsonl",
+    "current_sha256": "42794aac17e934e6b653985df1048669d10b4a29739dc737cec7ad742399b645",
+    "source_sha256": "42794aac17e934e6b653985df1048669d10b4a29739dc737cec7ad742399b645",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_04001_04250.jsonl",
+    "current_sha256": "0c5d23bff09442cdc6692f83b5d8dc09e4aadde3c30ff8647eb226be9d66a584",
+    "source_sha256": "0c5d23bff09442cdc6692f83b5d8dc09e4aadde3c30ff8647eb226be9d66a584",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_04251_04500.jsonl",
+    "current_sha256": "fbb120d2e5c47e3c981c269b1c5b769301fe8a2ab8d802c212892688e56003da",
+    "source_sha256": "fbb120d2e5c47e3c981c269b1c5b769301fe8a2ab8d802c212892688e56003da",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_04501_04750.jsonl",
+    "current_sha256": "aa87e6083d3d30042023daf5f999bc365214b156768d012f85a7c7d5d8899958",
+    "source_sha256": "aa87e6083d3d30042023daf5f999bc365214b156768d012f85a7c7d5d8899958",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_04751_05000.jsonl",
+    "current_sha256": "e2c0963a0a942f8fa8136d0fa3aacd2fd5f3a22c553aa009d00145f3a3fef190",
+    "source_sha256": "e2c0963a0a942f8fa8136d0fa3aacd2fd5f3a22c553aa009d00145f3a3fef190",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_05001_05250.jsonl",
+    "current_sha256": "d1b40c773e30d36892647f51b98ca28c0d4b9fb5557a78d1dd4eff15ea299dd7",
+    "source_sha256": "d1b40c773e30d36892647f51b98ca28c0d4b9fb5557a78d1dd4eff15ea299dd7",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_05251_05500.jsonl",
+    "current_sha256": "cd5e1b7cdda8e66c3a75a7251d1512424567218535fcf01e71d3d04a310a5faf",
+    "source_sha256": "cd5e1b7cdda8e66c3a75a7251d1512424567218535fcf01e71d3d04a310a5faf",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_05501_05750.jsonl",
+    "current_sha256": "63f0860e72cc0185a67dfe402f1d1ce1b6eee79274e0ef24a4737057fd1de51d",
+    "source_sha256": "63f0860e72cc0185a67dfe402f1d1ce1b6eee79274e0ef24a4737057fd1de51d",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_05751_06000.jsonl",
+    "current_sha256": "9f2cee4f08fc97fab38ee8fa80fce5e901a0157cb90a2c674d25bc9b73d1742f",
+    "source_sha256": "9f2cee4f08fc97fab38ee8fa80fce5e901a0157cb90a2c674d25bc9b73d1742f",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_06001_06250.jsonl",
+    "current_sha256": "b3c912600aaf67af954907fe7990197c6cd41a847d9915e98f2cb65ee6429ede",
+    "source_sha256": "b3c912600aaf67af954907fe7990197c6cd41a847d9915e98f2cb65ee6429ede",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_06251_06500.jsonl",
+    "current_sha256": "de4ef1af306a1deab6b7ed517f6a08297a9e8db2b0872801f920aec5791e52d3",
+    "source_sha256": "de4ef1af306a1deab6b7ed517f6a08297a9e8db2b0872801f920aec5791e52d3",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_06501_06750.jsonl",
+    "current_sha256": "15ed6c764a9d75c39f838647c63d6a52c16e41bb3c6d9dfb96aad5453b5c6cf6",
+    "source_sha256": "15ed6c764a9d75c39f838647c63d6a52c16e41bb3c6d9dfb96aad5453b5c6cf6",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_06751_07000.jsonl",
+    "current_sha256": "bba778a8fa26daa4ae6631aae37981d838f5b43b4678f2662908c89cffebebaa",
+    "source_sha256": "bba778a8fa26daa4ae6631aae37981d838f5b43b4678f2662908c89cffebebaa",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_07001_07250.jsonl",
+    "current_sha256": "b40688e00b5cb177aeb33757cb8a10ea13c1bc2828766e685e55f7c7849a62db",
+    "source_sha256": "b40688e00b5cb177aeb33757cb8a10ea13c1bc2828766e685e55f7c7849a62db",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_07251_07500.jsonl",
+    "current_sha256": "2cee55a8eea2ecbf95061a818604bc03a7ebb5fa6a985e1bd05defaa895c1688",
+    "source_sha256": "2cee55a8eea2ecbf95061a818604bc03a7ebb5fa6a985e1bd05defaa895c1688",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_07501_07750.jsonl",
+    "current_sha256": "6c7a950a2c35888c0c2c6ddd23f82825f99fd02a06f55049a08cfabd50224a96",
+    "source_sha256": "6c7a950a2c35888c0c2c6ddd23f82825f99fd02a06f55049a08cfabd50224a96",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_07751_08000.jsonl",
+    "current_sha256": "35b0a74576e6c3d827536a12158c9e1dda23c361cc3454d731784b276021cbb4",
+    "source_sha256": "35b0a74576e6c3d827536a12158c9e1dda23c361cc3454d731784b276021cbb4",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_08001_08250.jsonl",
+    "current_sha256": "0e0c66437bd82646b685b2ed714db6dcde6bd663cd76b96b0cbb51aea5690d66",
+    "source_sha256": "0e0c66437bd82646b685b2ed714db6dcde6bd663cd76b96b0cbb51aea5690d66",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_08251_08500.jsonl",
+    "current_sha256": "b0c3a20457c18aadbb967bdcc576cad840066077643d367481891e1a14941ef1",
+    "source_sha256": "b0c3a20457c18aadbb967bdcc576cad840066077643d367481891e1a14941ef1",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_08501_08750.jsonl",
+    "current_sha256": "c860f6d764da43ed6e04c8f49ad5388eefdca5914d736e535f7dd049c3ff1515",
+    "source_sha256": "c860f6d764da43ed6e04c8f49ad5388eefdca5914d736e535f7dd049c3ff1515",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_08751_09000.jsonl",
+    "current_sha256": "869ec0a7cc6c30b8137aeeab341838779c8cf04f28196ad8f283260db7906465",
+    "source_sha256": "869ec0a7cc6c30b8137aeeab341838779c8cf04f28196ad8f283260db7906465",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_09001_09250.jsonl",
+    "current_sha256": "d774db127cbc5f4fef3ecfe1ff090538655321b074ee5cfc1553c91707c8ebc5",
+    "source_sha256": "d774db127cbc5f4fef3ecfe1ff090538655321b074ee5cfc1553c91707c8ebc5",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_09251_09500.jsonl",
+    "current_sha256": "3e17a7ada6ff0f2c23ef0770dcbe76ea12a2564390c9d6557ff444d9e135e63c",
+    "source_sha256": "3e17a7ada6ff0f2c23ef0770dcbe76ea12a2564390c9d6557ff444d9e135e63c",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_09501_09750.jsonl",
+    "current_sha256": "9df48e60220f2da3904f337168c5adadf795aea77506ecc85662c4e612dc5842",
+    "source_sha256": "9df48e60220f2da3904f337168c5adadf795aea77506ecc85662c4e612dc5842",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/examples/DMLM_09751_10000.jsonl",
+    "current_sha256": "b5c1fb531e962a305578485554ac0486c168b3bd52053b3888263f07ffd35352",
+    "source_sha256": "b5c1fb531e962a305578485554ac0486c168b3bd52053b3888263f07ffd35352",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/validation/conformance_cases.jsonl",
+    "current_sha256": "ad86f58b05430689f6a46690ca6c5d12af425b6f85ef8105982d6bddf3887f39",
+    "source_sha256": "ad86f58b05430689f6a46690ca6c5d12af425b6f85ef8105982d6bddf3887f39",
+    "stored_jsonl_rows": 101,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/tests/conformance_cases.jsonl",
+    "current_sha256": "ad86f58b05430689f6a46690ca6c5d12af425b6f85ef8105982d6bddf3887f39",
+    "source_sha256": "ad86f58b05430689f6a46690ca6c5d12af425b6f85ef8105982d6bddf3887f39",
+    "stored_jsonl_rows": 101,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  }
+]

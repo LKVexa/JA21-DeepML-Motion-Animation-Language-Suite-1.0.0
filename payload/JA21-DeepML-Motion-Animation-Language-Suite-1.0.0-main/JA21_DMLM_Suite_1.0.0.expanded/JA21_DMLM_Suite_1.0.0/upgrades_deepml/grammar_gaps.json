@@ -1,0 +1,18 @@
+{
+  "grammar": "specifications/DEEPML_MOTION_LANGUAGE.ebnf",
+  "status": "incomplete_specification",
+  "undefined_references": [
+    "boolean",
+    "channelDecl",
+    "digit",
+    "letter",
+    "number",
+    "poseDecl",
+    "statement",
+    "string",
+    "time",
+    "transitionDecl"
+  ],
+  "editorial_extension_reachable_from_program": false,
+  "authority": "Static production-reference inspection only; no syntax or semantic conformance claim."
+}

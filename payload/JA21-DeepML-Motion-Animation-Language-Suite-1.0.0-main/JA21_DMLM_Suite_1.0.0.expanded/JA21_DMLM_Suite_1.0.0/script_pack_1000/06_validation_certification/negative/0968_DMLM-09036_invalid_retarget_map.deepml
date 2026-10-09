@@ -1,0 +1,6 @@
+deepml motion 0.3
+module corpus.deepml_motion.example_09036
+policy deterministic
+policy no_network
+skeleton Rig09036 { retarget A -> B map { MissingJoint: OtherMissing } }
+certify motion Rig09036 profile strict

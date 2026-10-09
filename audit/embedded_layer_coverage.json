@@ -1,0 +1,966 @@
+{
+  "coverage": [
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 1,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/bootstrap/bootstrap_records.jsonl",
+      "content_bytes": 74127,
+      "content_sha256": "faec01a2752eab4969d04e9390299a5d0a72ffbd04b197588f527d629a9ff120",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 46,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 2,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/bootstrap/bootstrap_records.md",
+      "content_bytes": 66122,
+      "content_sha256": "926b68f53cc98af86a24b1d6f0630f55083f1a1750108afcf1cc3797018fa647",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 3,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/compiler/contract.json",
+      "content_bytes": 6982,
+      "content_sha256": "d932ebb751d380cbcc7ab583c24bfdc22a8c196ab265f5f7b083e89e527cf55e",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 4,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/coverage.json",
+      "content_bytes": 8377,
+      "content_sha256": "c9bd219606b0639a4e1ed5d6bb4c2b2f7ace23f9e1ed2507030c228f4e857a39",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 5,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_00001_00250.jsonl",
+      "content_bytes": 1440432,
+      "content_sha256": "da73f45cb03f2600894bb10a4af471f820199f045a5b77da41a589964138a4e4",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 6,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_00251_00500.jsonl",
+      "content_bytes": 1440409,
+      "content_sha256": "1c244ab047cb2805cceb1a37905937b27668bcbd56607dc147a4144556e9371e",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 7,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_00501_00750.jsonl",
+      "content_bytes": 1440415,
+      "content_sha256": "ef25799ad0a2108c7ab915264d1eb5c6774f6f1a53cee6cbbead17744dd7f13c",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 8,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_00751_01000.jsonl",
+      "content_bytes": 1440352,
+      "content_sha256": "1914c1a67a233eb769fb1e5592884fcb027df79f1ff0928d18855094bda688a9",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 9,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_01001_01250.jsonl",
+      "content_bytes": 1478649,
+      "content_sha256": "3e0e5e3609fd7cebb5c4e85e6f258f75168d2fc33227effeba7474e44db1d1b2",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 10,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_01251_01500.jsonl",
+      "content_bytes": 1478386,
+      "content_sha256": "0583204c8c6cb05da4ef40a8240797d77d9b42370219c0a4c8826bace64c511c",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 11,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_01501_01750.jsonl",
+      "content_bytes": 1478666,
+      "content_sha256": "6bfbf3e070a01a4260e922006b824001a4f846fc656530b382b4c37b9add48f5",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 12,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_01751_02000.jsonl",
+      "content_bytes": 1478282,
+      "content_sha256": "1c4718fdc750535092646dd10f6bf3538778a3b8f58bf36051bb442e76ff5c0f",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 13,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_02001_02250.jsonl",
+      "content_bytes": 1478650,
+      "content_sha256": "4a8f1bad56ca126916563354b6bf9640df04f10026ace26642114cae2b6f17fd",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 14,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_02251_02500.jsonl",
+      "content_bytes": 1478384,
+      "content_sha256": "6e30d56c216699eb3c3a14f832254e48227f286feb48f3fedaac06533c3dc93b",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 15,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_02501_02750.jsonl",
+      "content_bytes": 1518928,
+      "content_sha256": "395f538e3e85896bb5bd0a0f86504e4f14b8149e50b991fdf51469eb184f739b",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 16,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_02751_03000.jsonl",
+      "content_bytes": 1519142,
+      "content_sha256": "cd78fe636ff0b95b862e475e61538d8c5953a850b3e16fb2af6141805c102900",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 17,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_03001_03250.jsonl",
+      "content_bytes": 1518952,
+      "content_sha256": "88e7f873ea5c2d2004661c368368bdb962885a7091ba3b8a4e4e059eee1de21d",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 18,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_03251_03500.jsonl",
+      "content_bytes": 1519091,
+      "content_sha256": "7649d7558238b9a154a2c210e1ab8333c0692d4578676650bf30d0b352c291b6",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 19,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_03501_03750.jsonl",
+      "content_bytes": 1518961,
+      "content_sha256": "e94c9f9d6ecaad35f45585f5bb9a562b21b2132b029bd2becfef5c6d0dc5132f",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 20,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_03751_04000.jsonl",
+      "content_bytes": 1519073,
+      "content_sha256": "42794aac17e934e6b653985df1048669d10b4a29739dc737cec7ad742399b645",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 21,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_04001_04250.jsonl",
+      "content_bytes": 1518935,
+      "content_sha256": "0c5d23bff09442cdc6692f83b5d8dc09e4aadde3c30ff8647eb226be9d66a584",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 22,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_04251_04500.jsonl",
+      "content_bytes": 1519142,
+      "content_sha256": "fbb120d2e5c47e3c981c269b1c5b769301fe8a2ab8d802c212892688e56003da",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 23,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_04501_04750.jsonl",
+      "content_bytes": 1518947,
+      "content_sha256": "aa87e6083d3d30042023daf5f999bc365214b156768d012f85a7c7d5d8899958",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 24,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_04751_05000.jsonl",
+      "content_bytes": 1519091,
+      "content_sha256": "e2c0963a0a942f8fa8136d0fa3aacd2fd5f3a22c553aa009d00145f3a3fef190",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 25,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_05001_05250.jsonl",
+      "content_bytes": 1494048,
+      "content_sha256": "d1b40c773e30d36892647f51b98ca28c0d4b9fb5557a78d1dd4eff15ea299dd7",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 26,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_05251_05500.jsonl",
+      "content_bytes": 1493557,
+      "content_sha256": "cd5e1b7cdda8e66c3a75a7251d1512424567218535fcf01e71d3d04a310a5faf",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 27,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_05501_05750.jsonl",
+      "content_bytes": 1493950,
+      "content_sha256": "63f0860e72cc0185a67dfe402f1d1ce1b6eee79274e0ef24a4737057fd1de51d",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 28,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_05751_06000.jsonl",
+      "content_bytes": 1493729,
+      "content_sha256": "9f2cee4f08fc97fab38ee8fa80fce5e901a0157cb90a2c674d25bc9b73d1742f",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 29,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_06001_06250.jsonl",
+      "content_bytes": 1493865,
+      "content_sha256": "b3c912600aaf67af954907fe7990197c6cd41a847d9915e98f2cb65ee6429ede",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 30,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_06251_06500.jsonl",
+      "content_bytes": 1493652,
+      "content_sha256": "de4ef1af306a1deab6b7ed517f6a08297a9e8db2b0872801f920aec5791e52d3",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 31,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_06501_06750.jsonl",
+      "content_bytes": 1494045,
+      "content_sha256": "15ed6c764a9d75c39f838647c63d6a52c16e41bb3c6d9dfb96aad5453b5c6cf6",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 32,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_06751_07000.jsonl",
+      "content_bytes": 1493561,
+      "content_sha256": "bba778a8fa26daa4ae6631aae37981d838f5b43b4678f2662908c89cffebebaa",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 33,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_07001_07250.jsonl",
+      "content_bytes": 1493948,
+      "content_sha256": "b40688e00b5cb177aeb33757cb8a10ea13c1bc2828766e685e55f7c7849a62db",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 34,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_07251_07500.jsonl",
+      "content_bytes": 1493728,
+      "content_sha256": "2cee55a8eea2ecbf95061a818604bc03a7ebb5fa6a985e1bd05defaa895c1688",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 35,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_07501_07750.jsonl",
+      "content_bytes": 1471249,
+      "content_sha256": "6c7a950a2c35888c0c2c6ddd23f82825f99fd02a06f55049a08cfabd50224a96",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 36,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_07751_08000.jsonl",
+      "content_bytes": 1471098,
+      "content_sha256": "35b0a74576e6c3d827536a12158c9e1dda23c361cc3454d731784b276021cbb4",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 37,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_08001_08250.jsonl",
+      "content_bytes": 1471314,
+      "content_sha256": "0e0c66437bd82646b685b2ed714db6dcde6bd663cd76b96b0cbb51aea5690d66",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 38,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_08251_08500.jsonl",
+      "content_bytes": 1470977,
+      "content_sha256": "b0c3a20457c18aadbb967bdcc576cad840066077643d367481891e1a14941ef1",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 39,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_08501_08750.jsonl",
+      "content_bytes": 1471249,
+      "content_sha256": "c860f6d764da43ed6e04c8f49ad5388eefdca5914d736e535f7dd049c3ff1515",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 40,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_08751_09000.jsonl",
+      "content_bytes": 1471104,
+      "content_sha256": "869ec0a7cc6c30b8137aeeab341838779c8cf04f28196ad8f283260db7906465",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 41,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_09001_09250.jsonl",
+      "content_bytes": 1346913,
+      "content_sha256": "d774db127cbc5f4fef3ecfe1ff090538655321b074ee5cfc1553c91707c8ebc5",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 42,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_09251_09500.jsonl",
+      "content_bytes": 1347024,
+      "content_sha256": "3e17a7ada6ff0f2c23ef0770dcbe76ea12a2564390c9d6557ff444d9e135e63c",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 43,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_09501_09750.jsonl",
+      "content_bytes": 1347447,
+      "content_sha256": "9df48e60220f2da3904f337168c5adadf795aea77506ecc85662c4e612dc5842",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 44,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/examples/DMLM_09751_10000.jsonl",
+      "content_bytes": 1347892,
+      "content_sha256": "b5c1fb531e962a305578485554ac0486c168b3bd52053b3888263f07ffd35352",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 45,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/grammar/grammar.ebnf",
+      "content_bytes": 2431,
+      "content_sha256": "98e0309e4d7d922a367d4064acada3ae537652397bf3d9748171b1fc6e782590",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 46,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/grammar/grammar_specification.md",
+      "content_bytes": 12620,
+      "content_sha256": "f375a91400660b81f6440e176ce0fa69f65dfb59f5aa1019ecad50a9b74d508a",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 47,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/hashes.sha256",
+      "content_bytes": 5290,
+      "content_sha256": "4e0b979bfcfe66e8bdbd46e2b32b7a843db79ac811caff18588242495139d3df",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 48,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/language_suite_specification.md",
+      "content_bytes": 11454,
+      "content_sha256": "ef755c6534f9eb659369d609ca0c9684fca0628024253d02588808f6f5976744",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 49,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/learning/learning_modules.json",
+      "content_bytes": 21117,
+      "content_sha256": "9529574391f8723fc30bed432757821f70da48c0b0bcc704920d8c2932cf814b",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 50,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/manifest.json",
+      "content_bytes": 8325,
+      "content_sha256": "b8cdbbb822a73d000974feae7d513dc43931c3926ff552426764b9a46903aee3",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 51,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/mcrt/profile.schema.json",
+      "content_bytes": 6933,
+      "content_sha256": "a88f8ce193b90dea79f04cd25dfac46bd27b5d45c090ce5e323e035bf7846559",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 52,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/README.md",
+      "content_bytes": 2794,
+      "content_sha256": "92b11bd786b4a91ae86495d07ab02595a1fdcd55a9e380219827ae077edaf7e5",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 53,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/runtime/contract.json",
+      "content_bytes": 6909,
+      "content_sha256": "a1d9f4291817036c3e90c20c0dd8dd649d001d2de926cfc0f10ecaff3dab5510",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 54,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-00001.deepml",
+      "content_bytes": 1892,
+      "content_sha256": "d21eed0f2ca078564bf4b4ce39dbee357c29d0cb66584a80bf2ad1629dd7b36a",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 55,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-00001.record.json",
+      "content_bytes": 15017,
+      "content_sha256": "828920ee75e36f209b5c144f7189fc07454b54bad4a55d0994d0752c2b612933",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 56,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-00002.deepml",
+      "content_bytes": 1892,
+      "content_sha256": "3562253f33051d77dd6eda0bc6d2d2afbd024c806216565a4d0e471a0edc39ac",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 57,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-00002.record.json",
+      "content_bytes": 15112,
+      "content_sha256": "8154c773efaa35538cc74801dc2f80caa104670d435d86ec2f29f187efa2e6d0",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 58,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-00003.deepml",
+      "content_bytes": 1892,
+      "content_sha256": "6b22f8560c0fecb880300c6abd22a4cd0f6c2120a96dc1ee7f9ff117e6fcc7a7",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 59,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-00003.record.json",
+      "content_bytes": 15036,
+      "content_sha256": "162a4e438113745b07a9ce30fc342df52a7938662b01ed47fe4761599c0b03e5",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 60,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-00004.deepml",
+      "content_bytes": 1892,
+      "content_sha256": "5fb7c17aae0946f039f28dffce07434f692006b22d0d0e52df92558c50d661e0",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 61,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-00004.record.json",
+      "content_bytes": 15093,
+      "content_sha256": "7c7fcc83b17232928f95f2e1ab79bb6d23002ec5f345f35946961830e6b93df3",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 62,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-00005.deepml",
+      "content_bytes": 1892,
+      "content_sha256": "49cec0e75ef41c2b3de0d52c47f00cd22e94b1f31e4a5bf8ca9605e21a1f61c3",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 63,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-00005.record.json",
+      "content_bytes": 15190,
+      "content_sha256": "6dc3182af55717c83304d2e8a336a2ba721acf767da7a348dc0f5c97ff362722",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 64,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-01000.deepml",
+      "content_bytes": 1892,
+      "content_sha256": "7583950020efc74a77d821b45f6c2853768b3901b9cd15df85606b0c3399579c",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 65,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-01000.record.json",
+      "content_bytes": 15025,
+      "content_sha256": "a34dd19b48245a84d9ac37ee68a8e4077db12d8121d62a2b674c7b3b4c0c8266",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 66,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-01001.deepml",
+      "content_bytes": 1953,
+      "content_sha256": "68a100fe0e427516b23ed3eedaa49e547ff6c6781550b4a16ef21fd5fb92a7e6",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 67,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-01001.record.json",
+      "content_bytes": 15375,
+      "content_sha256": "6ca749888724cd821622738033cfeac6843096b805afd7d76921a4d0b54b5d7b",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 68,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-01002.deepml",
+      "content_bytes": 1954,
+      "content_sha256": "cfde7b6323a459bb57821d2136de38677e433f93f95162ef4812684710d6e7ff",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 69,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-01002.record.json",
+      "content_bytes": 15243,
+      "content_sha256": "da29c2d0c214d16ed7807fa047267667ce007e596277cd82a5abf0c729425b6c",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 70,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-02500.deepml",
+      "content_bytes": 1954,
+      "content_sha256": "24569ed8e998f7830cb5fc673abe28a50fe063bf8c4534fa379d69fedd7f6c1a",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 71,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-02500.record.json",
+      "content_bytes": 15243,
+      "content_sha256": "d2d83966462e760bfa5ee3cd07ce66c679b1fd9be63f4eb7d753d412c55bfe1c",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 72,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-02501.deepml",
+      "content_bytes": 1997,
+      "content_sha256": "6f71eddef8379d3ab13e8be4fb2a80a428cf89a84ea3c28e703d64190338e52b",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 73,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-02501.record.json",
+      "content_bytes": 15449,
+      "content_sha256": "f8f0d9a54dc87a37f9e0e6cc850424ec542efe0138b57aed4a93ac2bd31eaa2f",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 74,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-02502.deepml",
+      "content_bytes": 2035,
+      "content_sha256": "3419413acb2c5101fb70a72a31fcf44c5fbf1826ae6af1bdb91628b75b3f59e6",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 75,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-02502.record.json",
+      "content_bytes": 13849,
+      "content_sha256": "12d06550c1e34861b913c1c56a4a3a2964fd35060f7da557f8fb6deb24a64943",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 76,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-05000.deepml",
+      "content_bytes": 1997,
+      "content_sha256": "857d2a0f5a72ba7b593cd608787f46e4585886a515f2693804b5cfa4220e0e44",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 77,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-05000.record.json",
+      "content_bytes": 15390,
+      "content_sha256": "399351bafe46e0af32ed6095153c11e822066fc02b41a8b63a9877ff4ae54b8d",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 78,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-05001.deepml",
+      "content_bytes": 1917,
+      "content_sha256": "e9affa3fe5bb91d732ff37c2f7e1fbd64e8947e00eb2de1710f9a5a7d82b8fb5",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 79,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-05001.record.json",
+      "content_bytes": 15434,
+      "content_sha256": "1a2a98a2546f392ffcaafc08fc28005c461bf47ab13de956feb690f5ef49b66c",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 80,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-05002.deepml",
+      "content_bytes": 1917,
+      "content_sha256": "105b39c43d28d3fdd15554abdec1a8211c7bd04357efd67599c81b34cea551e8",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 81,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-05002.record.json",
+      "content_bytes": 15284,
+      "content_sha256": "6aa6e77464e0d71a58530b48dbaf22e5613cb0a59c3faafd22a3d6e48643349a",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 82,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-07500.deepml",
+      "content_bytes": 1917,
+      "content_sha256": "376ca8d4f2680806966ea9735be4e46bd7e9e9240b7c7a218ff8ef0d002d0616",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 83,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-07500.record.json",
+      "content_bytes": 15341,
+      "content_sha256": "81e940526f7cd0863fb83ab626e7d01ce35eeeff2f830d59cfe633e9c7fa63d3",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 84,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-07501.deepml",
+      "content_bytes": 1885,
+      "content_sha256": "3c6cb32cce1f16ef91f17167f9619bd8d3ed40a988fde47a0327353392f8ae1e",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 85,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-07501.record.json",
+      "content_bytes": 15275,
+      "content_sha256": "c05dea55b841d027ac69f87932755e8efd29d11523dd6b0d9d31e4bf7a942fe9",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 86,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-07502.deepml",
+      "content_bytes": 1885,
+      "content_sha256": "0e9bdf4c9bbd49c1063255b20d53f296e6150db34c1849612de5fdf4ef61f3b9",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 87,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-07502.record.json",
+      "content_bytes": 15263,
+      "content_sha256": "d300c33ec9d6bc42c05763d59ac9d1e880b235e94bdf5a44f18d2e616bc7ec85",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 88,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-09000.deepml",
+      "content_bytes": 1885,
+      "content_sha256": "50dffd4348065a339408df630c4e20048be7f1887958dd57f2fb109678bea9c2",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 89,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-09000.record.json",
+      "content_bytes": 15267,
+      "content_sha256": "2ade04877c3024cb61ab03c0c213ea05e6a7a8198174ad3efedc073824349ec7",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 90,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-09001.deepml",
+      "content_bytes": 1548,
+      "content_sha256": "6424c00d0f691f71f2691ef293286b2eda78f157a368cbb6834040f8787fd891",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 91,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-09001.record.json",
+      "content_bytes": 13246,
+      "content_sha256": "43aa66b8828d71e12953d522bd1facea423eacdde355313d0ce3ddd9e3526386",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 92,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-09002.deepml",
+      "content_bytes": 1530,
+      "content_sha256": "65668ba30e9bbc76100dece534881953014f764e38cbdd353a3fce7d32196cc1",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 93,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-09002.record.json",
+      "content_bytes": 13194,
+      "content_sha256": "c39c3677f3648557823e5f42fb7f06731fbf6e5345b7da72964fd0f59d753d6e",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 94,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-09998.deepml",
+      "content_bytes": 1563,
+      "content_sha256": "c7188d56134d5f9c79d70fbfac90e30e02475d07fcd57f0f04c832b81b190645",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 95,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-09998.record.json",
+      "content_bytes": 13279,
+      "content_sha256": "010c3f3ba8303fc1cceb33ba436033e616a44f90d01f14be5ebf3c8220165b93",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 96,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-09999.deepml",
+      "content_bytes": 1549,
+      "content_sha256": "18c6218cf68c681db0bffa905f08ae89d92160f6bf426bb0ad174eb8f37ee3ec",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 97,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-09999.record.json",
+      "content_bytes": 13265,
+      "content_sha256": "907778c6d15055930811225d43fb82cb056d31436389ede0523bf0feed9f9862",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 98,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-10000.deepml",
+      "content_bytes": 1545,
+      "content_sha256": "bf922003997c377448d15cdf3e699387a34da7ad788968db7344d58f914de816",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 99,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/sample_scripts/EX-DMLM-10000.record.json",
+      "content_bytes": 13295,
+      "content_sha256": "1dcb4787d0f463364535dc74a07037b7f66d0c822f68974394858965986410a5",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 100,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/semantic/operators.json",
+      "content_bytes": 24781,
+      "content_sha256": "d09a3a2884e0a7cc2f863f06448a753d0f015306f918f2c423d437c34ab897b2",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 101,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/validation/conformance_cases.jsonl",
+      "content_bytes": 89673,
+      "content_sha256": "ad86f58b05430689f6a46690ca6c5d12af425b6f85ef8105982d6bddf3887f39",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 101,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/DeepML_Motion_Animation_Language_Coupling_Mechanics_Corpus.jsonl.gz",
+      "line": 102,
+      "original_id": "Corpora(2).zip::SCL_deepml_motion_Corpus_1.0/deepml_motion/validation/coverage_expectations.json",
+      "content_bytes": 7077,
+      "content_sha256": "6349c9038dce2e5fd4e8c6be4918b063401dd461b962e67aaf84618fd4bfb974",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    }
+  ],
+  "findings": [],
+  "note": "Embedded record totals overlap reconstructed datasets. They are additional coverage, not unique training examples."
+}

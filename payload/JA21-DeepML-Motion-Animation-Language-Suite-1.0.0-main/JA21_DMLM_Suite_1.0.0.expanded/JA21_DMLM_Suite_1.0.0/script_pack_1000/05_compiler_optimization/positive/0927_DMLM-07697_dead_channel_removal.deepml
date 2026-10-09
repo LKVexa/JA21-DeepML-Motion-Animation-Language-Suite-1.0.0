@@ -1,0 +1,13 @@
+deepml motion 0.3
+module corpus.deepml_motion.example_07697
+policy deterministic
+policy no_network
+motion_graph Optimize07697 {
+  pose A = constant_pose(Rig07697)
+  curve HipRotation = keys([0:0, 0.25:0.1, 0.5:0.2, 0.75:0.3, 1:0.4])
+  channel DeadChannel enabled false
+  blend B weights [0.2,0.3,0.5]
+  ik Chain schedule after blend
+}
+optimize Optimize07697 using [pose_constant_folding, curve_compression(0.001), dead_channel_removal, blend_normalization, retarget_cache, ik_scheduling, state_minimization]
+lower Optimize07697 to DEEPML_MOTION_R12

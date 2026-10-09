@@ -1,0 +1,184 @@
+{
+  "classes": {
+    "certification": 30,
+    "negative": 2095,
+    "positive": 7875
+  },
+  "code": "DMLM",
+  "examples": 10000,
+  "expected_stages": {
+    "certification": 30,
+    "name_resolution": 125,
+    "runtime": 7875,
+    "runtime_validation": 345,
+    "semantic_validation": 1625
+  },
+  "language": "deepml.motion",
+  "shards": 40,
+  "tiers": {
+    "1": 1000,
+    "2": 1500,
+    "3": 2500,
+    "4": 2500,
+    "5": 1500,
+    "6": 1000
+  },
+  "topics": {
+    "blend_normalization": 187,
+    "blend_tree": 187,
+    "channel": 111,
+    "character_rig": 417,
+    "cinematic_motion": 416,
+    "clip": 111,
+    "constraint": 187,
+    "contact_constraint": 417,
+    "crowd_motion": 416,
+    "curve_compression": 188,
+    "dead_channel_removal": 187,
+    "foot_slide_tolerance": 125,
+    "ik_nonconvergence": 125,
+    "ik_scheduling": 187,
+    "interpolation": 111,
+    "invalid_retarget_map": 125,
+    "inverse_kinematics": 188,
+    "joint": 111,
+    "joint_cycle": 125,
+    "keyframe": 111,
+    "layered_state_machine": 417,
+    "locomotion_controller": 417,
+    "locomotion_parameter": 187,
+    "mask": 187,
+    "missing_bind_pose": 125,
+    "motion_matching": 417,
+    "motion_module": 111,
+    "physics_aware_animation": 417,
+    "portal_traversal": 417,
+    "pose": 112,
+    "pose_constant_folding": 188,
+    "procedural_animation": 416,
+    "r12_mcrt_lowering": 188,
+    "replay_mismatch": 125,
+    "retarget_cache": 187,
+    "retargeting": 188,
+    "root_motion": 188,
+    "scene_timeline_sync": 416,
+    "skeleton": 111,
+    "state_machine": 188,
+    "state_minimization": 188,
+    "trajectory_prediction": 417,
+    "transform": 111,
+    "unreachable_state": 125,
+    "zero_length_bone": 125
+  },
+  "_coupling_mechanics": {
+    "framework": "Smithson 8S Coupled Mechanics v1.0",
+    "status": "Proposed generative and computational law; not an established physical law, not the standard sphere S^8 without separate topological proof, and not evidence of physical quantum entanglement.",
+    "author": "Russell Philip Smithson",
+    "analytical_support_layers": [
+      "SOPHIA",
+      "CHARLOTTE",
+      "LANDON"
+    ],
+    "canonical_terms": {
+      "object": "S^3 fiber",
+      "base": "five-dimensional penteract field B^5=[-1,1]^5",
+      "hidden_center": "latent five-dimensional center",
+      "fifth_coordinate": "elucidation coordinate t8 with declared independent semantic or mechanical meaning",
+      "visible_center": "projected center",
+      "pairwise_interaction": "sparse geometric-semantic classical coupling",
+      "higher_order_interaction": "selective triadic coupling",
+      "visual_overlap": "projected three-dimensional overlap",
+      "total_space": "locally eight-dimensional noncollapsed penteract-S^3 hyperfiber system"
+    },
+    "equations": {
+      "coordinate_extension": "C5=[C4|e]",
+      "independent_residual": "e_perp=(I-C4*C4^+)e",
+      "independence_score": "eta_ind=||e_perp||_2^2/(||e||_2^2+epsilon)",
+      "driver": "q(tau)=sin^2(pi*tau/T)",
+      "candidate_site": "c_n=ell*n, n in Z^5, ||n||_1<=M",
+      "shell_multiplicity": "A_5(m)=sum_{j=1}^{min(5,m)} 2^j*C(5,j)*C(m-1,j-1); A_5(0)=1",
+      "coupling_weight": "W_ij=A_ij*exp(-((c_i-c_j)^T G5 (c_i-c_j))/(2 sigma_c^2)-d_J(i,j)^2/(2 sigma_J^2))",
+      "phase_dynamics": "dtheta_i/dtau=omega_i+K2*sum_j W_ij*sin(theta_j-theta_i)+K3*sum_{j,k} H_ijk*sin(theta_j+theta_k-2theta_i)",
+      "activation_score": "h_i=beta(Mq+1/2-d_i)+a_E E_i+a_u u_i-a_chi chi_i-a_zeta zeta_i+J2*sum_j W_ij(2p_j-1)+J3*sum_{j,k} H_ijk(2p_j-1)(2p_k-1)",
+      "activation": "p_i=sigma(h_i)=1/(1+exp(-h_i))",
+      "smooth_boundary": "B_5,infinity(c_i)=prod_{a=4}^{8} b(c_{i,a})",
+      "effective_support": "s_i=p_i*kappa_i*(1-chi_i)*(1-zeta_i)*v(omega_i)",
+      "radius": "r_i=r_max*B_5,infinity(c_i)^alpha*s_i^(1/3)",
+      "fiber": "F_i=S^3_{r_i}={y in R^4: ||y||_2=r_i}",
+      "fiber_volume": "Vol(S^3_{r_i})=2*pi^2*r_max^3*B_5,infinity(c_i)^(3alpha)*s_i",
+      "total_space": "X8(tau)={(c,y) in [-1,1]^5 x R^4: ||y||_2=R(c,tau)}",
+      "full_projection": "x_i^(3)(u,tau)=[Pi5(tau)|Psi4(tau)]*[c_i;r_i*u], u in S^3",
+      "latent_5d_gap": "g5_ij=sqrt((c_i-c_j)^T G5 (c_i-c_j))-(lambda_i+lambda_j)",
+      "product_state_separation": "delta8_ij=sqrt((c_i-c_j)^T G5 (c_i-c_j)+(r_i-r_j)^2)",
+      "projected_gap": "g3_ij=||Pi5*c_i-Pi5*c_j||_2-(rhat_i+rhat_j)",
+      "semantic_gap": "gJ_ij=d_J(J_i,J_j)-theta_J",
+      "efficacy_gain": "Delta_8S=Score(M8)-Score(M7)",
+      "admission_gate": "Admit(8S) iff eta_ind>=epsilon_ind and Delta_8S>epsilon_gain"
+    },
+    "relation_test": {
+      "inputs": [
+        "g5_ij",
+        "delta8_ij",
+        "g3_ij",
+        "gJ_ij",
+        "K_ij",
+        "Sigma_ij"
+      ],
+      "classification_order": [
+        "UNRESOLVED when an uncertainty interval crosses a declared tolerance or required evidence/provenance is missing",
+        "CONTRADICTION when K_ij>=theta_K",
+        "HIGHER_ORDER when a triadic term changes the pairwise result",
+        "PROJECTION_ONLY when g5_ij>tol5 and g3_ij<=tol3",
+        "LATENT_5D_COUPLED when g5_ij<-tol5",
+        "FIBER_STATE_RESONANT when delta8_ij<=tol8 and phase coherence is within tolerance",
+        "SEMANTIC_ONLY when latent and projected gaps are positive but gJ_ij<=tolJ",
+        "REINFORCING when semantics, phase, and provenance support the same result",
+        "NONE otherwise"
+      ],
+      "scale": "L=max(ell,r_max,lambda_i,lambda_j,||c_i-c_j||_G5)",
+      "tol5": "1e-7 L unless a stricter profile is declared",
+      "tol8": "1e-7 L unless a stricter profile is declared",
+      "tol3": "1e-5 L unless a stricter rendering profile is declared",
+      "tolJ": "declared semantic-distance tolerance",
+      "observability": "A single 3x5 base projection has nullspace dimension at least two; stacked views require rank 5 for unique linear center reconstruction."
+    },
+    "r12_profile": {
+      "identity_schema": "8S law version and penteract profile",
+      "latent_geometry": "c_i, G5, shell, fifth-coordinate meaning",
+      "activation_support": "p_i, kappa_i, chi_i, zeta_i, s_i",
+      "phase_coupling": "theta_i, W_ij, H_ijk, interaction order",
+      "projection_tests": "g5, delta8, g3, gJ, projection version, tolerance profile",
+      "certification": "eta_ind, Delta_8S, relation class, limitations",
+      "fold_invariant": "document-level folding must preserve contradiction, uncertainty, provenance, projection version, and the interaction order that changed the result"
+    },
+    "execution_policy": {
+      "default": "sparse pairwise neighborhoods",
+      "escalation": "activate triadic terms only in unresolved, contradictory, high-risk, or certification-critical clusters",
+      "complexity_target": "O(Nk) pairwise sparse execution with selective higher-order escalation rather than unrestricted O(N^3) triads"
+    },
+    "validation_gate": {
+      "compare_models": "fit M7 and M8 to the same data and evaluate held-out results",
+      "required_tests": [
+        "nonredundancy",
+        "interpretability",
+        "predictive or certifying gain",
+        "cost-benefit",
+        "projection identifiability",
+        "R12 replay invariants"
+      ],
+      "replay_requirements": {
+        "independence_score_difference": "<=1e-8",
+        "center_radius_phase_difference": "<=1e-7 L with wrapped phase <=1e-6 radians",
+        "relation_class_and_tuple_hash": "identical",
+        "interaction_order": "identical"
+      }
+    },
+    "example": "When g5>tol5 and g3<=tol3, record PROJECTION_ONLY; preserve delta8, gJ, uncertainty, projection version, and interaction order independently.",
+    "annotations": [
+      "The fifth coordinate is admitted only when it contains a material residual outside span(C4), has declared meaning, and improves held-out efficacy after compute and energy costs.",
+      "A five-dimensional base plus an S^3 fiber gives local noncollapsed dimension 8, but does not by itself prove the total space is the standard sphere S^8.",
+      "Increasing latent dimension is distinct from adding higher-order coupling: H_ijk is required for genuine triadic mechanics.",
+      "Additional numerical data required: C4, proposed coordinate e, G5, W, optional H, evidence fields, phase initial conditions, projection family, apparent radii or meshes, semantic metric, tolerances, provenance, and replay identifier."
+    ]
+  }
+}

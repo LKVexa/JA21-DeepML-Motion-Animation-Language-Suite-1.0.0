@@ -1,0 +1,12 @@
+deepml motion 0.3
+module corpus.deepml_motion.example_00597
+policy deterministic
+policy no_network
+skeleton Rig00597 {
+  joint Root parent none bind transform(vec3(0,0,0), quat.identity)
+  joint Hip parent Root bind transform(vec3(0,0.3,0), quat.identity)
+  joint Foot parent Hip bind transform(vec3(0,-0.5,0), quat.identity)
+}
+pose Idle00597 for Rig00597 { Root.rotation = quat.identity Hip.rotation = quat.axis_angle(y, 17deg) }
+clip Clip00597 duration 3s interpolation cubic { channel Hip.rotation key 0s quat.identity key 1s quat.axis_angle(y, 20deg) }
+verify motion_hash == "invalid-00597"

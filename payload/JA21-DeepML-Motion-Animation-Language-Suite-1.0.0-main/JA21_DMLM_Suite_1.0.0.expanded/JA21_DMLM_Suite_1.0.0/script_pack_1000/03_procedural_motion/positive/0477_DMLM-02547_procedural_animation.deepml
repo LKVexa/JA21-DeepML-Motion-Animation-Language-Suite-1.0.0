@@ -1,0 +1,13 @@
+deepml motion 0.3
+module corpus.deepml_motion.example_02547
+policy deterministic
+policy no_network
+skeleton Rig02547 { joint Root parent none joint Hip parent Root joint FootL parent Hip joint FootR parent Hip }
+procedural animation Procedural02547 seed 2547 {
+  trajectory = predict_trajectory(velocity, horizon=1.0s)
+  match = motion_match(database="local:motions_0", trajectory=trajectory)
+  constrain contact FootL to ground when phase < 0.5
+  constrain contact FootR to ground when phase >= 0.5
+}
+layered state_machine Layers02547 { base: Locomotion upper: Gesture additive: Breathing }
+synchronize Procedural02547 with scene.Actor14 and timeline.Sequence12

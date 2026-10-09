@@ -1,0 +1,6 @@
+deepml motion 0.3
+module corpus.deepml_motion.example_09009
+policy deterministic
+policy no_network
+skeleton Rig09009 { replay motion expect_hash "aaaa" actual_hash "bbbb" }
+certify motion Rig09009 profile strict

@@ -1,0 +1,6 @@
+deepml motion 0.3
+module corpus.deepml_motion.example_09007
+policy deterministic
+policy no_network
+skeleton Rig09007 { ik Chain iterations 0 tolerance 0 target unreachable }
+certify motion Rig09007 profile strict

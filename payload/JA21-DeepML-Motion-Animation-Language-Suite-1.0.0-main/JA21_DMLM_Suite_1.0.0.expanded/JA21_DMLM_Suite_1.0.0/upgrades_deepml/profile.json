@@ -1,0 +1,6 @@
+{
+  "profile": "deepml.motion",
+  "source_version": "0.3",
+  "schema_path": "corpus/technical/technical_record.schema.json",
+  "master": "deepml_motion_animation_technical_corpus_10000.jsonl.gz"
+}

@@ -1,0 +1,29 @@
+deepml motion 0.3
+module starter.deepml_motion.walk_cycle
+policy deterministic
+policy no_network
+
+skeleton StarterRig {
+  joint Root parent none bind transform(vec3(0,0,0), quat.identity)
+  joint Hip parent Root bind transform(vec3(0,1,0), quat.identity)
+  joint Knee parent Hip bind transform(vec3(0,-0.5,0), quat.identity)
+  joint Foot parent Knee bind transform(vec3(0,-0.5,0), quat.identity)
+}
+
+pose Idle for StarterRig {
+  Root.rotation = quat.identity
+  Hip.rotation = quat.identity
+}
+
+clip Walk duration 1s interpolation cubic {
+  channel Hip.rotation {
+    key 0s quat.axis_angle(x, -8deg)
+    key 0.5s quat.axis_angle(x, 8deg)
+    key 1s quat.axis_angle(x, -8deg)
+  }
+}
+
+state_machine StarterMotion {
+  Idle -> Walk when speed > 0.1
+  Walk -> Idle when speed <= 0.1
+}

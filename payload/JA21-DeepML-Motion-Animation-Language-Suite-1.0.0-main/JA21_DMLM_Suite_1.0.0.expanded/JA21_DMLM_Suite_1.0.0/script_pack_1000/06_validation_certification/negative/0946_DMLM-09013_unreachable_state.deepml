@@ -1,0 +1,6 @@
+deepml motion 0.3
+module corpus.deepml_motion.example_09013
+policy deterministic
+policy no_network
+skeleton Rig09013 { state_machine S { Idle -> Run when false } }
+certify motion Rig09013 profile strict

@@ -1,0 +1,14 @@
+deepml motion 0.3
+module corpus.deepml_motion.example_05045
+policy deterministic
+policy no_network
+character Rig05045 {
+  skeleton Humanoid0
+  controller Locomotion { blend: locomotion_5 ik: feet trajectory: predictive }
+  controller Cinematic { timeline: "cinematic_7" masks: [upper_body, face] }
+  portal traversal { entry_pose: PortalEnter exit_pose: PortalExit root_motion: preserve }
+  physics coupling { ragdoll: bounded recovery: deterministic }
+}
+crowd motion Crowd05045 agents 15 controller Rig05045 avoidance deterministic
+package motion Rig05045 as "motion_05045.msslb"
+verify motion_hash == "invalid-05045"

@@ -1,0 +1,12 @@
+deepml motion 0.3
+module corpus.deepml_motion.example_01186
+policy deterministic
+policy no_network
+skeleton Rig01186 { joint Root parent none joint Hip parent Root joint Knee parent Hip joint Foot parent Knee }
+blend_tree Locomotion01186 parameter speed { idle at 0 walk at 1 run at 3 }
+mask LowerBody { include [Hip, Knee, Foot] }
+ik FootIK01186 chain [Hip, Knee, Foot] target GroundTarget iterations 10
+retarget SourceRig3 -> Rig01186 map { Hips: Hip LeftFoot: Foot }
+state_machine Move01186 { Idle -> Walk when speed > 0.1 Walk -> Run when speed > 2.0 Run -> Idle when speed == 0 }
+root_motion from Root axes [x,z]
+verify motion_hash == "invalid-01186"

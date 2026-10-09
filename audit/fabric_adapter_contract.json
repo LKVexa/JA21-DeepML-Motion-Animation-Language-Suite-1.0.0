@@ -1,0 +1,16 @@
+{
+  "profile": "deepml.motion",
+  "proposed_contribution": "Rigs, poses, blends and retargeting service contracts",
+  "reuse_boundary": "Keep simulation and physical/display execution evidence distinct.",
+  "source_archive_sha256": "a14639c4c87b81e1174c4205ad6435a6e6a95f7e79254e8b6997b10c2122f517",
+  "source_evidence_paths": [
+    "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/SUITE_CATALOG.md",
+    "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/grammar/grammar.ebnf",
+    "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/grammar/grammar_specification.md",
+    "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/reference_source/deepml_motion_0.3/language_suite_specification.md",
+    "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/specifications/GRAMMAR_SPECIFICATION.md",
+    "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/JA21_DMLM_Suite_1.0.0.expanded/JA21_DMLM_Suite_1.0.0/specifications/LANGUAGE_SPECIFICATION.md"
+  ],
+  "executable_adapter_implemented": false,
+  "mathematical_foundation": "8S Penteract-S3 Master Coupled Mechanics Law for intended JA model; typed operator semantics require their owning profile."
+}

@@ -1,0 +1,64 @@
+{
+  "repository": "JA21-DeepML-Motion-Animation-Language-Suite-1.0.0",
+  "copyright": "JA21-DeepML-Motion-Animation-Language-Suite-1.0.0 (C) 2026 RUSSELL PHILIP SMITHSON",
+  "license": "GPL-3.0-only",
+  "publication_date": "2026-10-09",
+  "source_preservation": "Original source directories, compressed archives, source manifests, and prior audit source statistics remain unchanged.",
+  "manifest_policy": "Only existing current manifest/checksum records covering files changed by the licensing pass were refreshed. No source audit statistics were rewritten.",
+  "changes": [
+    {
+      "path": "COPYRIGHT",
+      "action": "added",
+      "reason": "Requested repository copyright attribution",
+      "original_sha256": null,
+      "original_bytes": null,
+      "current_sha256": "b7e900ab1fe7e5d3b683f0d5b2fbbc9851ea0ba20d2d7924ee77499d736c6e93",
+      "current_bytes": 121
+    },
+    {
+      "path": "LICENSE",
+      "action": "added",
+      "reason": "Requested GPL-3.0-only repository license",
+      "original_sha256": null,
+      "original_bytes": null,
+      "current_sha256": "59399c2a1a95c61fcb4d3654d18061eaf5bdeb8bd6e87ee3140f2a893853e2a4",
+      "current_bytes": 35271
+    },
+    {
+      "path": "NOTICE",
+      "action": "added",
+      "reason": "Repository license and publication provenance notice",
+      "original_sha256": null,
+      "original_bytes": null,
+      "current_sha256": "f540535d532d4d5305d526fda45681e5f39d6aa780e0dbbaca8f8577a87e8927",
+      "current_bytes": 390
+    },
+    {
+      "path": "audit/updated_manifest.json",
+      "action": "modified",
+      "reason": "Refresh current manifest records for licensing edits",
+      "original_sha256": "0940e9e3b65677aee49b667aa328b7e7963792df2a8a1bf807f33133434ff102",
+      "original_bytes": 399382,
+      "current_sha256": "a80121d3904f138c2b1b0ddb494511fb166861c0b16705ca163bd374307ce27c",
+      "current_bytes": 393467
+    },
+    {
+      "path": "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/LICENSE.txt",
+      "action": "modified",
+      "reason": "Replace prior authored package license notice with requested GPL-3.0-only",
+      "original_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "original_bytes": 11358,
+      "current_sha256": "59399c2a1a95c61fcb4d3654d18061eaf5bdeb8bd6e87ee3140f2a893853e2a4",
+      "current_bytes": 35271
+    }
+  ],
+  "current_manifest_updates": [
+    {
+      "path": "audit/updated_manifest.json",
+      "covered_changes": [
+        "payload/JA21-DeepML-Motion-Animation-Language-Suite-1.0.0-main/LICENSE.txt"
+      ]
+    }
+  ],
+  "ledger_integrity": "The publication-wide checksum manifest should cover this ledger; this ledger does not include a self-hash."
+}
